@@ -1,1 +1,11 @@
-# portfolio
+Portfolio Website (Next.js)
+ ├── Landing (authority + positioning)
+ ├── Projects (deep proof)
+ ├── Live Demos (interactive systems)
+ ├── Case Studies (decision thinking)
+ └── Contact Funnel (conversion)
+
+Backends (already built)
+ ├── CircuitFaultLens (FastAPI)
+ ├── ReliabilityTradeoffLab (Streamlit)
+ └── DesignReviewCopilot (FastAPI)
