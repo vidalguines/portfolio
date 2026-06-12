@@ -1,0 +1,12 @@
+portfolio-site/
+├── app/
+│   ├── page.tsx
+│   ├── projects/
+│   ├── demos/
+│   ├── case-studies/
+│   └── contact/
+├── components/
+├── styles/
+├── public/
+├── package.json
+└── next.config.js
